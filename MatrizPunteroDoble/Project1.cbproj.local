@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/25 21:45:32.306,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/25 21:45:33.147,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/06/25 21:46:35.590,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/25 21:46:59.684,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\UMatrizPtrDb.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/06/25 21:46:59.684,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\UMatrizPtrDb.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/25 21:52:03.763,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MatrizPunteroDoble\UMatrizPtrDb.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\UMatrizPtrDb.cpp</Transaction>
+    <Transaction>2023/06/25 21:52:03.763,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MatrizPunteroDoble\UMatrizPtrDb.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\UMatrizPtrDb.h</Transaction>
+    <Transaction>2023/06/25 21:52:08.179,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MatrizPunteroDoble\File2.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/06/25 21:52:11.133,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MatrizPunteroDoble\Project1PCH1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/25 21:52:44.588,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MatrizPunteroDoble\Project1.cbproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
